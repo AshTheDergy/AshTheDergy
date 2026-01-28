@@ -1,7 +1,7 @@
-<h1 align="center">Whas good gang im Ash</h1>
-<h3 align="center">Lil programmer from Estonia</h3>
+<h1 align="center">🙏</h1>
+<h3 align="center">Wannabe programmer from Estonia</h3>
 
-- 🌱 I’m currently learning **Game development**
+- 🌱 I’m currently taking a break
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
